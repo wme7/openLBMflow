@@ -1,0 +1,1 @@
+gcc -O2 -s -o openLBMflow openLBMflow.c -lm
